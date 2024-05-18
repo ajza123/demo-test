@@ -1,0 +1,23 @@
+[33mcommit 15ac78fbf1b1eff8b121f8a04d5929d0b87448fe[m[33m ([m[1;36mHEAD -> [m[1;32mdev2[m[33m, [m[1;31morigin/dev2[m[33m, [m[1;31morigin/dev1[m[33m, [m[1;32mdev1[m[33m)[m
+Author: Huy <xuanhuy3517@gmai.com>
+Date:   Sat May 18 16:20:19 2024 +0700
+
+    them nhanh dev1
+
+[33mcommit 25b38e0c6ad5a40834811bb0512b51e29aaa8e49[m
+Author: Huy <xuanhuy3517@gmai.com>
+Date:   Sat May 18 16:15:59 2024 +0700
+
+    first commit
+
+[33mcommit 3f3a13243efdc9663ec9baec5f550fdd4b70cd1c[m
+Author: ajza123 <151907463+ajza123@users.noreply.github.com>
+Date:   Sat May 18 15:10:30 2024 +0700
+
+    Create README.md
+
+[33mcommit db81ed32bf5b6794deb4e4042a9db53e5e65399e[m
+Author: ajza123 <151907463+ajza123@users.noreply.github.com>
+Date:   Sat May 18 14:34:20 2024 +0700
+
+    Create Test
